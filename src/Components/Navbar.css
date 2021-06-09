@@ -1,0 +1,52 @@
+.navbar {
+    width: 100%;
+    height: 80px;
+    background-color: #afafaf ;
+    margin-top: -7px;
+}
+.navbar-nav{
+    margin-left: 3%;
+}
+.navbar-wrapper {
+    width: 100%;
+    height: auto;
+    margin-top: 0.5%;
+}
+.row{
+    display: flex;
+}
+
+.col-2{
+    border: 1px solid white;
+    width: auto;
+}
+
+.nav-link>h6{
+    font-weight: 500;
+    color: rgb(0, 0, 0);
+}
+
+@media only screen and (max-width: 600px) {
+    .navbar {
+        width: 100%;
+        height: 80px;
+        background-color: rgb(37, 37, 34);
+        margin-top: -8px;
+    }
+    .navbar-wrapper {
+        width: 100%;
+        display: flex;
+    }
+    .logo-div {
+        width: 50%;
+    }
+    .contact-div {
+        display: none;
+    }
+    .login-div {
+        width: 50%;
+    }
+    .login-div>button {
+        margin-left: 50px;
+    }
+}

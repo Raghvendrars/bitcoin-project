@@ -1,0 +1,217 @@
+.hero-sec-row{
+    margin-top: 2%;
+}
+.bitcoin-icon {
+    float: left;
+}
+
+.bitcoin-branding {
+    width: 100%;
+    display:flex;
+    float: left;
+}
+.branding-name{
+    margin-left: 10px;
+    font-weight: bold;
+}
+.bitcoin-price{
+    margin-left: -3px;
+    margin-top: -2px;
+    font-weight: bold;
+}
+.btc-btn{
+    width: 47px;
+    height: 30px;
+    margin-left: 10px;
+}
+.btc-btn>h6{
+    font-size: small;
+}
+
+.rank-watch-div{
+    margin-top: 2%;
+    width: 100%;
+    display:flex;
+    float: left;
+}
+.eth-price{
+    margin-top: 0%;
+    margin-left: 2%;
+    width: 100%;
+    display:flex;
+    float: left;
+}
+.rank-btn{
+    width: 60px;
+    padding: 0px;
+    color: white;
+    height: 30px;
+    background:#808A9D;
+    font-size: smaller;
+}
+
+.coin-btn{
+    width: 60px;
+    padding: 0px;
+    margin-left: 7px;
+    color: rgb(82, 81, 81);
+    height: 30px;
+    background:#EFF2F5;
+    font-size: smaller;
+    font-weight: 500;
+}
+
+.watch-btn{
+    width:auto;
+    padding: 5px;
+    margin-left: 7px;
+    color: rgb(87, 78, 78);
+    height: 30px;
+    background:#EFF2F5;
+    font-size: smaller;
+    font-weight: 500;
+}
+
+.dollar-icon{
+    margin: 0px;
+    padding: 0px;
+}
+
+.bitcoin-price-trend-btn{
+    width: 65px;
+    margin-left: 2%;
+    padding: 0px;
+    background-color: red;
+    height: 40px;
+    color: white;
+    font-weight: 500;
+}
+
+.buy-ex-game-btn-div{
+    margin-top: 2%;
+}
+
+.herosec-buy-btn{
+    padding: 0px;
+    width: 60px;
+    height: 33px;
+    margin-left: 1%;
+}
+
+.herosec-exhnage-btn{
+    padding: 5px;
+    width: auto;
+    height: 33px;
+    margin-left: 1%;
+}
+.herosec-gaming-btn{
+    padding: 5px;
+    width: auto;
+    height: 33px;
+    margin-left: 1%;
+}
+.herosec-earncrypto-btn{
+    padding: 5px;
+    width: auto;
+    height: 33px;
+    margin-left: 1%;
+}
+
+/* buttons section */
+.buttons-sec-row{
+    margin-top: 2%;
+}
+
+.buttons-group-one{
+    width: 100%;
+    height: 100px;
+}
+
+.all-bit-btns{
+    float: left;
+    margin-top: 3%;
+    width:auto;
+    padding-left: 7px;
+    margin-left:8px;
+    color: rgb(75, 74, 74);
+    height: 33px;
+    background:#EFF2F5;
+    font-size: smaller;
+    font-weight: 500;
+}
+
+.all-bit-btns>a{
+    list-style: none;
+    color: black;
+    text-decoration: none;
+}
+
+.buttons-group-two{
+    margin-top: 2%;
+    width: 100%;
+    /* background-color: red; */
+    height: 80px;
+    
+}
+.buttons-group-two>h6{
+    font-size: small;
+    width: 100%;
+    float: left;
+    text-align: left;
+}
+.all-bit-tags{
+    float: left;
+    margin-top: 0%;
+    width:auto;
+    padding:3px;
+    margin-left:8px;
+    color: rgb(75, 74, 74);
+    height: 28px;
+    background:#EFF2F5;
+    font-size: smaller;
+    font-weight: 500;
+}
+
+.marketcap-div{
+    float: left;
+    
+    width: 100%;
+    margin-top: 10%;
+    text-align: left;
+}
+
+.mrkt-cap-txt{
+    font-size: small;
+    margin-left: 06px;
+    color: solid grey;
+}
+.mrkt-cap-col{
+    width: 20%;
+    border-right: 1px solid rgb(221, 221, 221);
+    
+}
+
+.fully-diluted-cap-col{
+    width: 20%;
+    border-right: 1px solid rgb(221, 221, 221);
+   
+}
+.volume-col{
+    width: 20%;
+    border-right: 1px solid rgb(221, 221, 221);
+    
+}
+.supply-col{
+    width: 20%;
+    border-right: 1px solid rgb(221, 221, 221);
+}
+
+.info-icon{
+    color: grey;
+}
+
+.mrkt-cap-price{
+    margin-left: 1%;
+    font-size: 14px;
+    font-weight: 600;
+}
