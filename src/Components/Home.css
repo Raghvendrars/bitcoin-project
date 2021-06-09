@@ -2,6 +2,7 @@
     margin-top: 2%;
 }
 .bitcoin-icon {
+    color: orange;
     float: left;
 }
 
@@ -214,4 +215,121 @@
     margin-left: 1%;
     font-size: 14px;
     font-weight: 600;
+}
+
+/* mrkt-cap-div-two */
+.mrkt-cap-div-two{
+    margin-left: 2%;
+    margin-top: 100px;
+}
+
+.mrkt-cap-div-two>h6{
+    font-size: small;
+    text-align: left;
+}
+
+.make-it-bold{
+    font-weight: bold;
+}
+
+.progress-bar{
+    background-color: grey;
+}
+
+.supply-col{
+    margin-top: 1%;
+}
+.supply-div>h6{
+    text-align: left;
+    color:  rgb(82, 80, 80);
+}
+.supply-div-two{
+    margin-top: 15%;
+}
+.supply-div-two>h6{
+    font-size: small;
+    font-weight: 500;
+}
+
+
+.bitcoin-desc-row{
+    display: flex;
+}
+.bitcoin-desc-col{
+    width: 67%;
+    text-align: left;
+}
+
+.bitcoin-price-col{
+    margin-top: 3%;
+    width: 33%;
+    
+    font-size: small;
+}
+
+.price-statics-div{
+    padding: 20px;
+background-color: #F8FAFD;
+}
+
+.show_more_btn{
+    margin-left: -10px;
+    font-size: 20px;
+    font-weight: 500;
+    color: blue;
+}
+.rounded-pill{
+    font-size: small;
+    color: black;
+}
+
+.fw-bold>h6{
+    color:grey;
+    font-size: small;
+}
+
+.bit-statics-text-h4{
+    font-size: 18px;
+    font-weight: 500;
+    text-align: left;
+}
+.bit-statics-text-p{
+    margin-top: 6%;
+    font-size: small;
+    font-weight: 500;
+    text-align: left;
+}
+
+.bitcoin-price-group{
+    border-left: none;
+    border-right: none;
+    background: transparent;
+}
+.bitcoin-price-group:hover{
+    cursor: pointer;
+    background-color: lightgrey;
+}
+
+.treding-coins{
+    padding: 20px;
+background-color: #F8FAFD;
+    
+}
+
+.trending-coins-text-h4{
+    text-align: left;
+    font-size: 18px;
+}
+
+.fw-bold-text{
+    display: flex;
+}
+.fw-bold-text>h6{
+    font-size: 14px;
+}
+
+.fw-bold-text>img{
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
 }
